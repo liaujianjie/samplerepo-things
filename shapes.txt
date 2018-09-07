@@ -2,3 +2,5 @@ circle
 oval
 rectangle
 square
+rhombus
+whatever
